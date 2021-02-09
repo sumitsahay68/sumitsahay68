@@ -6,7 +6,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sumitsahay68/sumitsahay68">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahay68&hide=html,css&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahay68&theme=tokyonight" />
 </a>
 <a href="https://github.com/sumitsahay68/sumitsahay68">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsahay68&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="sumitsahay68's GitHub Stats" />
